@@ -2,7 +2,7 @@
 
 This is my FRT Internship project....
 
-azure link: 
+azure link: https://makaan.z29.web.core.windows.net/
 
 # Project Statement:
 
