@@ -12,6 +12,10 @@ The real estate industry often lacks efficient platforms for buying, selling, an
 
 Our real estate website is a comprehensive platform designed to streamline property transactions, offering a seamless experience for buyers, sellers, renters, and property agents alike. With a wide range of property types available including apartments, villas, homes, offices, shops, and garages, users can easily find listings that match their preferences. The inclusion of a filter option enables users to refine their search based on location, making it convenient to find properties in desired areas. The website boasts a user-friendly interface, ensuring smooth navigation and accessibility across devices. Whether users are looking to buy, sell, or rent properties, or seeking the assistance of a property agent, our platform provides a centralized solution, enhancing efficiency and effectiveness in the real estate market.
 
+# Demo Video:
+
+https://www.youtube.com/watch?v=3D6KbD4chxs&t=13s
+
 # Azure Core Technologies used :
 
 1.Static Web Apps(for deployment of the website).
